@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+body {
+  font-family: 'Arial', sans-serif;
+  font-size: 22px;
+  color: Black;
+  background-color: #f9e3e3;
+}
+  
+.second_image {
+  padding-top: 10px;
+}
+
+img {
+  transform: scale(0.7);
+  padding-bottom: 0px;
+}
